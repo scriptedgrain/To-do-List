@@ -1,0 +1,28 @@
+C:\Users\delta\MeuPrimeiroProjetoC#\bin\Debug\net8.0\MeuPrimeiroProjetoC#.exe
+C:\Users\delta\MeuPrimeiroProjetoC#\bin\Debug\net8.0\MeuPrimeiroProjetoC#.deps.json
+C:\Users\delta\MeuPrimeiroProjetoC#\bin\Debug\net8.0\MeuPrimeiroProjetoC#.runtimeconfig.json
+C:\Users\delta\MeuPrimeiroProjetoC#\bin\Debug\net8.0\MeuPrimeiroProjetoC#.dll
+C:\Users\delta\MeuPrimeiroProjetoC#\bin\Debug\net8.0\MeuPrimeiroProjetoC#.pdb
+C:\Users\delta\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delta\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.AssemblyInfoInputs.cache
+C:\Users\delta\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.AssemblyInfo.cs
+C:\Users\delta\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.csproj.CoreCompileInputs.cache
+C:\Users\delta\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.dll
+C:\Users\delta\MeuPrimeiroProjetoC#\obj\Debug\net8.0\refint\MeuPrimeiroProjetoC#.dll
+C:\Users\delta\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.pdb
+C:\Users\delta\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.genruntimeconfig.cache
+C:\Users\delta\MeuPrimeiroProjetoC#\obj\Debug\net8.0\ref\MeuPrimeiroProjetoC#.dll
+F:\Usuários\delta\Área de Trabalho\Lucca\Projetos\MeuPrimeiroProjetoC#\bin\Debug\net8.0\MeuPrimeiroProjetoC#.exe
+F:\Usuários\delta\Área de Trabalho\Lucca\Projetos\MeuPrimeiroProjetoC#\bin\Debug\net8.0\MeuPrimeiroProjetoC#.deps.json
+F:\Usuários\delta\Área de Trabalho\Lucca\Projetos\MeuPrimeiroProjetoC#\bin\Debug\net8.0\MeuPrimeiroProjetoC#.runtimeconfig.json
+F:\Usuários\delta\Área de Trabalho\Lucca\Projetos\MeuPrimeiroProjetoC#\bin\Debug\net8.0\MeuPrimeiroProjetoC#.dll
+F:\Usuários\delta\Área de Trabalho\Lucca\Projetos\MeuPrimeiroProjetoC#\bin\Debug\net8.0\MeuPrimeiroProjetoC#.pdb
+F:\Usuários\delta\Área de Trabalho\Lucca\Projetos\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Usuários\delta\Área de Trabalho\Lucca\Projetos\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.AssemblyInfoInputs.cache
+F:\Usuários\delta\Área de Trabalho\Lucca\Projetos\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.AssemblyInfo.cs
+F:\Usuários\delta\Área de Trabalho\Lucca\Projetos\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.csproj.CoreCompileInputs.cache
+F:\Usuários\delta\Área de Trabalho\Lucca\Projetos\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.dll
+F:\Usuários\delta\Área de Trabalho\Lucca\Projetos\MeuPrimeiroProjetoC#\obj\Debug\net8.0\refint\MeuPrimeiroProjetoC#.dll
+F:\Usuários\delta\Área de Trabalho\Lucca\Projetos\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.pdb
+F:\Usuários\delta\Área de Trabalho\Lucca\Projetos\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.genruntimeconfig.cache
+F:\Usuários\delta\Área de Trabalho\Lucca\Projetos\MeuPrimeiroProjetoC#\obj\Debug\net8.0\ref\MeuPrimeiroProjetoC#.dll
